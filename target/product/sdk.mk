@@ -22,6 +22,7 @@ PRODUCT_PACKAGES := \
 	DeskClock \
 	Email \
 	Exchange2 \
+	Gallery \
 	Mms \
 	Phone \
 	Protips \
@@ -49,6 +50,7 @@ PRODUCT_PACKAGES := \
 	ConnectivityTest \
 	GpsLocationTest \
 	CalendarProvider \
+	Calendar \
 	SmokeTest \
 	SmokeTestApp \
 	rild \

@@ -24,9 +24,11 @@ PRODUCT_PACKAGES := \
     Bluetooth \
     Calculator \
     CertInstaller \
+    Calendar \
     DrmProvider \
     Email \
     Exchange2 \
+    Gallery2 \
     InputDevices \
     LatinIME \
     Launcher2 \

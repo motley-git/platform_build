@@ -395,11 +395,10 @@ def WriteFullOTAPackage(input_zip, output_zip):
 
   script.ShowProgress(0.5, 0)
   script.Print("")
-  script.Print("")
   script.Print("Jelly Bean 4.1.X")
   script.Print("Android Open Source Project")
-  script.Print("www.PeterAlfonso.com")
   script.Print("")
+  script.Print("motleyville edition")
   script.Print("")
   script.Print("Installing system files...")
 
